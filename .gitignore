@@ -1,0 +1,16 @@
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# Jupyter Notebook hidden state
+.ipynb_checkpoints/
+.ipynb_hidden/
